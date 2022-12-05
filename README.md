@@ -3,7 +3,9 @@
 <h2>I'm Software Test Specialist</h2>
 
 <h3>About me 🍀 </h3> 
+Quality Assurance Test Engineer with a demonstrated history of working in Online Shopping.. Strong hands on experience in Functional testing, Smoke testing, Regression testing, User Acceptance testing (UAT), Cross Browser testing, Integration testing , API testing and Database testing using Selenium web driver, Cucumber and Java and Rest Assured. Strong quality assurance skills with professional manner. Experienced in Agile environment.Good knowledge in Software Development Life Cycle (SDLC) and QA Methodologies. Proficient in JIRA as a bug tracking tool. 
 
+Excellent inter-personal communication and social skills built through extensive training from previous work experience. Enjoys working on own initiative or in a team.
 <p></p>
 
 <br>
